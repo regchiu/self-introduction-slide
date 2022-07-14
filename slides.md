@@ -54,7 +54,7 @@ layout: two-cols
 
 ::right::
 
-<img src="https://spotify-currently-playing-track.vercel.app/api" class="mt-15" />
+<img src="https://spotify-currently-playing-track.vercel.app/api" class="mt-15 ml-5" />
 
 <!-- [![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track) -->
 
