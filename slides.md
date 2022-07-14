@@ -47,7 +47,7 @@ layout: two-cols
 
 - 🏠 **家鄉** - 高雄
 - 🏫 **學校** - 國立東華大學 - 應用數學系
-- ⚛️ **部門** - 2D Front-end
+- 🏢 **部門** - 2D Front-end
 - 🎮 **遊戲** - Apex, Elden Ring, Death Stranding...
 - 💪 **運動** - 籃球、走路健行
 - 📺 **影音** - NetFlix, Disney Plus, YouTube, Spotify
